@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Database
+flashcards.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Output files
+outputs/
+
