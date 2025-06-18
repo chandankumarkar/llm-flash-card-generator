@@ -1,3 +1,6 @@
 streamlit
 openai
-
+pandas
+sqlalchemy
+PyPDF2
+python-dotenv
